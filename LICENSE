@@ -1,0 +1,40 @@
+Farlink Server License (source-available)
+
+Copyright (c) 2026 Denis Babkevich. All rights reserved.
+
+This is NOT an open-source license. The source code is published so that you can read it
+and run it, on the terms below. [DRAFT: have this text reviewed by a lawyer before relying on it.]
+
+1. Permission
+   You may download, build and run the unmodified software for personal, family or your own
+   organization's internal use, to host Farlink networks for yourself and the people you
+   invite. The use must be non-commercial.
+
+2. Restrictions
+   You may NOT:
+   (a) modify the software or create derivative works from it;
+   (b) use it commercially: sell, rent, license or sublicense it, offer it as a paid or
+       advertising-supported service to third parties, or include it in a commercial product;
+   (c) copy or distribute the source code or binaries, except by pointing to the official
+       repository or release page;
+   (d) remove or change copyright and license notices;
+   (e) use the Farlink name or logo, except to say that you run Farlink Server.
+   You may fork the repository on GitHub only as far as GitHub's Terms of Service allow, to
+   read the code or to propose changes to the official repository. Running a modified copy
+   is not permitted.
+
+3. Feedback
+   If you send suggestions or code, you give the copyright holder the right to use them
+   without limit or payment.
+
+4. Third-party components
+   The software includes third-party components under their own licenses. See
+   THIRD-PARTY-NOTICES.txt.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT HOLDER IS
+   NOT LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM ITS USE.
+
+6. Termination
+   This license ends automatically if you break any of its terms. Then you must stop using
+   the software and delete your copies.

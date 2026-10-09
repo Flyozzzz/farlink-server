@@ -1,0 +1,17 @@
+[Unit]
+Description=Farlink Server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=farlink
+ExecStart=/usr/local/bin/farlink-server -id https://files.example.com -domain files.example.com -public-ip 203.0.113.5 -data /var/lib/farlink
+Restart=always
+RestartSec=3
+StateDirectory=farlink
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+NoNewPrivileges=true
+LimitNOFILE=65536
+
+[Install]
+WantedBy=multi-user.target
